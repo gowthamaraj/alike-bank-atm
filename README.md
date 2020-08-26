@@ -1,6 +1,7 @@
 # Alike Bank ATM 
 > Sample react App like Bank ATM.
-link to live project: ``
+<br />
+link to live project: https://gowthamaraj-alike-atm.netlify.app/
 
 ## Prototype using FIGMA
 ![](ss/1.png)
